@@ -3,19 +3,19 @@
 A starter template for small projects that use webpack 2.0. This template already has Bootstrap and jQuery installed, making it a good tool for individuals who want to get started with webpack 2.0.
 
 To begin usage, clone the repo and run 
-```bash
+```javascript
 npm install
 ```
  to install its dependencies. To run a local server, run 
- ```bash
+ ```javascript
  npm run dev
  ``` 
  and visit
-```bash
+```javascript
  localhost:9000
  ```
  If you want to optimize the site for production, run 
- ```bash
+ ```javascript
  npm run prod
  ```
 
